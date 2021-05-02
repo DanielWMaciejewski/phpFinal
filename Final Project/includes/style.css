@@ -1,0 +1,21 @@
+body{
+	background-color:#71f0dc;
+	color: black;
+}
+nav{
+	color: black;
+	background-color:white;
+}
+h1{
+	color: black;
+}
+table, th, td {
+  border: 1px solid #bbdfe7;
+  table-layout: auto;
+}
+td{
+	background-color:#82a0c1;
+}
+hr{
+	color: #e298d1;
+}
